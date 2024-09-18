@@ -31,18 +31,23 @@ git clone https://github.com/sanjaykumar638/MERN-Stack-employees-details
 <img src="Backend/public/images/webpage.png" alt="">
 
  <strong> Registeration page</strong>
+
  <img src="Backend/public/images/RegisterPage.png" alt ="">
 
-     <strong> Login page</strong>
+<strong> Login page</strong>
+
   <img src="Backend/public/images/login.png" alt="">
 
-  <strong> Designation page</strong>
+<strong> Designation page</strong>
+
 <img src="Backend/public/images/Designation.png" alt="">
 
 <strong> Employee page</strong>
+
 <img src="Backend/public/images/Employee.png" alt="">
 
 <strong> Update Employee </strong>
+
 <img src="Backend/public/images/EmpUpdate.jpg" alt="">
 
 

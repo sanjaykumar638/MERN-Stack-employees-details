@@ -24,14 +24,16 @@ git clone https://github.com/Tola-lemma/Employee-management-using-MERN-stack.git
      Start the server:
 `npm run server`
 # Screenshots
+<strong>Webpage</strong>
+<img src="![alt text](Backend/public/images/webpage.png)">
  <strong> Registeration page</strong>
- <img src="Backend/public/images/RegisterPage.jpg" alt="">
+ <img src="![alt text](Backend/public/images/RegisterPage.png)">
      <strong> Login page</strong>
-  <img src="Backend/public/images/login.jpg" alt="">
-  <strong> Department page</strong>
-<img src="Backend/public/images/DepPage.jpg" alt="">
+  <img src="![alt text](Backend/public/images/login.png)">
+  <strong> Designation page</strong>
+<img src="![alt text](Backend/public/images/Designation.png)">
 <strong> Employee page</strong>
-<img src="Backend/public/images/EmpPage.jpg" alt="">
+<img src="![alt text](Backend/public/images/Employee.png)">
 <strong> Update Employee </strong>
 <img src="Backend/public/images/EmpUpdate.jpg" alt="">
 

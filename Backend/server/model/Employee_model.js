@@ -1,0 +1,39 @@
+const mongoose = require('mongoose');
+var employee = new mongoose.Schema({
+
+  EmployeeId: {
+    type: String,
+    required: true,
+    unique: true
+  },
+  
+  EmployeeName: {
+    type: String,
+    required: true
+  },
+  Department: {
+    type: String,
+    required: true
+  },
+  Date_of_Joining: {
+    type: Date,
+    required: true
+  },
+  PhotoFileName: {
+    type: String,
+    required: true
+  },
+  PhoneNumber: {
+    type: String, 
+    required: true
+  },
+  Gender: {
+    type: String, 
+    enum: ['Male', 'Female', 'Other'], 
+    required: true
+  }
+
+}, {collection: 'Employee'});
+
+const employedb = mongoose.model('employedb', employee);
+module.exports = employedb;
